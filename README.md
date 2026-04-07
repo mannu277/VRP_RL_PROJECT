@@ -46,3 +46,7 @@ Install dependencies with:
 ```bash
 pip install gurobipy torch numpy matplotlib
 ```
+## Notes
+- A valid Gurobi license is required to run the MILP-based experiments.
+- License credentials are not included in this repository.
+- Some scripts correspond to intermediate thesis experiments and later variants.
